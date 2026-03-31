@@ -1,7 +1,3 @@
-Here is a human-friendly, engaging and polished version of your README while keeping it professional and student-focused.
-
----
-
 # Student Expense Tracker
 
 A simple Java app to help Student Expense Tracker users stay in control of their money. Without needing the internet accounts or complicated tools.
